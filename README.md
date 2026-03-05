@@ -4,7 +4,7 @@
 List so far:
 - **Megalania**: 475 kg at ~5 meters (specific gravity of 1.0).
 - **Saltwater Crocodile**: 506.7 kg at 4.95 meters (specific gravity of 1.05).
-- **Tarbosaurus bataar**: ~5275 kg at 10.9 meters (specific gravity of 0.97).
+- **Tarbosaurus bataar**: ~5761 kg at 10 meters (specific gravity of 0.97).
 - More soon to come.
 
 > [!IMPORTANT]
