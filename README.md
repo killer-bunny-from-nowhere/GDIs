@@ -7,5 +7,5 @@ List so far:
 - **Tarbosaurus bataar**: ~5275 kg at 10.9 meters (specific gravity of 0.97).
 - More soon to come.
 
-[!IMPORTANT]
-The Megalania GDI uses the Komodo dragon as a proxy for Megalania's bauplan, when, in reality, Megalania is unlikely to have been a carbon copy of V. komodoensis. 5 meters also represents the absolute largest possible specimen based on the vertebra from Molnar's book.
+> [!IMPORTANT]
+> The Megalania GDI uses the Komodo dragon as a proxy for Megalania's bauplan, when, in reality, Megalania is unlikely to have been a carbon copy of V. komodoensis. 5 meters also represents the absolute largest possible specimen based on the vertebra from Molnar's book.
