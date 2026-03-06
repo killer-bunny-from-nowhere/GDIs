@@ -25,9 +25,6 @@ komodo_length = 5.43623570727
 pixel_to_meter = len(lat)/komodo_length
 axial_gdi = np.pi * (lat / (2 * pixel_to_meter)) * (dors / (2 * pixel_to_meter))
 v_axial = np.sum(axial_gdi) * (1 / pixel_to_meter)
-
-print(v_axial)
-
 armlat = get_diameters("KomodoArmLat.png")
 armdors = get_diameters("KomodoArmDors.png")
 leglat = get_diameters("KomodoLegLat.png")
