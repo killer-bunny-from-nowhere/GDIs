@@ -25,9 +25,6 @@ saltie_length = 4.95
 pixel_to_meter = len(lat)/saltie_length
 axial_gdi = np.pi * (lat / (2 * pixel_to_meter)) * (dors / (2 * pixel_to_meter))
 v_axial = np.sum(axial_gdi) * (1 / pixel_to_meter)
-
-print(v_axial)
-
 armlat = get_diameters("saltiearmlat.png")
 armdors = get_diameters("saltiearmdors.png")
 leglat = get_diameters("saltieleglat.png")
