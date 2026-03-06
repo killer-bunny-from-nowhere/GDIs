@@ -25,9 +25,6 @@ tarbo_length = 10
 pixel_to_meter = len(lat)/tarbo_length
 axial_gdi = np.pi * (lat / (2 * pixel_to_meter)) * (dors / (2 * pixel_to_meter))
 v_axial = np.sum(axial_gdi) * (1 / pixel_to_meter)
-
-print(v_axial)
-
 leglat = get_diameters("tarboleglat.png")
 legfront = get_diameters("tarbolegfront.png")
 leg_min_len = min(len(leglat), len(legfront))
