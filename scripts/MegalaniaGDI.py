@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import os 
 import matplotlib.pyplot as plt
-os.chdir(r"C:\Users\User\Downloads\KomodoDragonGDI")
+os.chdir(r"ur/path")
 def get_diameters(image_path):
     img = cv2.imread(image_path, cv2.IMREAD_UNCHANGED)
     if img is None: return np.array([0])
